@@ -1,0 +1,1 @@
+include ':app', ':widgetsample', ':sample', ':autolayout-widget', ':autolayout', ':hellow', ':myapplication'
